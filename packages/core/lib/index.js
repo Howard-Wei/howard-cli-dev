@@ -1,3 +1,4 @@
+#! usr/bin/env node
 const utils = require('@howard-cli-dev/utils')
 const argvs = require('process').argv
 console.log('🚀 ~ file: index.js ~ line 3 ~ argvs', argvs)
