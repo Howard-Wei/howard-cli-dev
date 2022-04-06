@@ -17,6 +17,6 @@
     "start": "node ./lib/index.js"
   },
   "dependencies": {
-    "@howard-cli-dev/utils": "^1.0.1"
+    "@howard-cli-dev/utils": "^1.0.0"
   }
 }
